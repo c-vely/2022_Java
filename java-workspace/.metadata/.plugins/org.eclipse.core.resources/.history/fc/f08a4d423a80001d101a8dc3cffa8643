@@ -1,0 +1,33 @@
+package kr.ac.kopo.day01;
+
+import java.util.Scanner; //패키지명 미리 선언하면 짧게 쓸 수 있음. 
+
+public class ScannerMain {
+	
+	public static void main(String[] args) {
+		
+		// import 안 하면 패키지명 포함해서 써야 함.
+//		java.util.Scanner sc = new java.util.Scanner(System.in);
+				
+		Scanner sc = new Scanner(System.in);
+		
+		
+		// 문자열 입력
+		System.out.print("문자열을 입력 : ");
+//		String str = sc.next();  		// 문자열을 입력 (단어 단위)
+		String str = sc.nextLine(); 	//문자열을 입력 (문장 단위)
+		System.out.println("str : [" + str + "]");
+		
+		
+		// 정수 입력
+		System.out.print("정수를 입력 : ");	
+		int num = sc.nextInt();
+		System.out.println("num : "+ num);
+		System.out.printf("%d + 10 = %d\n", num, num+10);
+		
+		
+		
+		
+	}
+
+}

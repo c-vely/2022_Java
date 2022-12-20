@@ -1,0 +1,27 @@
+package kr.ac.kopo.day01;
+
+/*
+	변수 선언 규칙 
+	
+	자료형 변수명;
+	boolean
+	char
+	byte
+	short
+	int
+	long
+	float
+	double
+ */
+
+public class VarMain {
+
+	public static void main(String[] args) {
+		
+		
+		
+		
+
+	}
+
+}
