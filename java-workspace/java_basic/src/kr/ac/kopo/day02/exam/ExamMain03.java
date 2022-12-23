@@ -68,7 +68,7 @@ public class ExamMain03 {
 		
 		// 4. 교수님
 		for(int i = 100; i >= 1; i-=2) {
-			System.outonly.print(i + " ");				
+			System.out.print(i + " ");				
 			if(++cnt % 5 == 0) {
 				System.out.println();				
 			}
