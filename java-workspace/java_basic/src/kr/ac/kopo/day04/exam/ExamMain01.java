@@ -23,10 +23,33 @@ public class ExamMain01 {
 	
 	public static void main(String[] args) {
 		
-		Scanner sc = new Scanner(System.in);
+		int num[] = new int[5];
 		
-		int num = sc.nextInt();
-		System.out.println("num : "+ num);
+		Scanner sc = new Scanner(System.in);
+		System.out.println("5개의 정수를 입력하세요 : ");
+	
+		for(int i = 0; i < num.length; i++) {			 
+			num[i] = sc.nextInt();						 
+			System.out.println("num"+ (i+1) + " : " + num[i]);		
+		}		
+		System.out.println();
+		System.out.println();
+		
+		
+		System.out.println("< PRINT >");		
+		for(int i = 0; i < num.length; i++) {
+			System.out.print(num[i] + " ");
+		}
+		System.out.println();
+		
+		
+		System.out.println("< REVERSE >");		
+		for(int i = 0; i < num.length; i++) {		
+			System.out.print(num[i] % 10);
+			System.out.print(num[i] / 10);
+			System.out.print(" ");			
+		}
+		System.out.println();		
 		
 	}
 

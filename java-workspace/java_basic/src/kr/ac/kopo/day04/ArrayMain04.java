@@ -28,6 +28,7 @@ public class ArrayMain04 {
 			System.out.println(strArr[i]);
 		}
 		
+		
 		// 2)		
 		System.out.println(" < 1.5버전의 for문을 이용한 원소 출력 >");
 		for(String str : strArr) {
