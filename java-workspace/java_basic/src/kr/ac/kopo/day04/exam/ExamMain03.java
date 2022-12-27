@@ -29,7 +29,7 @@ public class ExamMain03 {
 	
 	public static void main(String[] args) {
 		
-			int num = 0;
+		int num = 0;
 	
 		Scanner sc = new Scanner(System.in);
 		

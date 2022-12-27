@@ -24,11 +24,13 @@ public class StringMain05 {
 		*/
 		
 		
-		// 대신 StringBuffer or 
+		// 대신 StringBuffer(동기화) or StringBulider(비동기화) 를 쓴다. --> 요즘은 StringBulider를 더 많이 씀.
 		StringBuffer sb = new StringBuffer();
 		for(int i = 0; i < 1000000; i++) {
 			sb.append(i);
 		}
+		
+		
 		
 		
 		
