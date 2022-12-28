@@ -8,6 +8,7 @@ public class Employee {
 	
 	Employee(){}
 	
+
 	Employee(String name, int salary, String grade){
 		this.name = name;
 		this.salary = salary;

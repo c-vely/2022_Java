@@ -11,7 +11,8 @@ public class Manager02 extends Employee {
 		this.empList = empList;
 	}
 
-	
+	// 메소드 오버라이드(Method Override) : 메소드 재정의  ---> 다형성과 관련잆음
+	@Override 	// <-- 프로그래밍 주석
 	void info() {
 		super.info();
 		
