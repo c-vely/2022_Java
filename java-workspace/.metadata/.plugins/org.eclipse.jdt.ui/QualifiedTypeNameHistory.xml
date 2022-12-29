@@ -6,4 +6,7 @@
     <fullyQualifiedTypeName name="kr.ac.kopo.day07.exam.Triangle"/>
     <fullyQualifiedTypeName name="kr.ac.kopo.day07.exam.Square"/>
     <fullyQualifiedTypeName name="kr.ac.kopo.day07.exam.Rectangle"/>
+    <fullyQualifiedTypeName name="kr.ac.kopo.day08.abs01.SamsungPrinter"/>
+    <fullyQualifiedTypeName name="kr.ac.kopo.day08.abs01.LGPrinter"/>
+    <fullyQualifiedTypeName name="kr.ac.kopo.day08.abs02.SamsungPrinter"/>
 </qualifiedTypeNameHistroy>
