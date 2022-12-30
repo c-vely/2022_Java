@@ -9,4 +9,8 @@
     <fullyQualifiedTypeName name="kr.ac.kopo.day08.abs01.SamsungPrinter"/>
     <fullyQualifiedTypeName name="kr.ac.kopo.day08.abs01.LGPrinter"/>
     <fullyQualifiedTypeName name="kr.ac.kopo.day08.abs02.SamsungPrinter"/>
+    <fullyQualifiedTypeName name="kr.ac.kopo.day08.inter01.SamsungTV"/>
+    <fullyQualifiedTypeName name="kr.ac.kopo.day08.inter01.LGTV"/>
+    <fullyQualifiedTypeName name="java.security.AlgorithmConstraints"/>
+    <fullyQualifiedTypeName name="kc.ac.kopo.day09.EmployeeMain"/>
 </qualifiedTypeNameHistroy>

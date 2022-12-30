@@ -1,4 +1,4 @@
-package kr.ac.kopo.day08.inter01;
+package kr.ac.kopo.day09.inter01;
 
 public class UserMain {
 	

@@ -1,4 +1,4 @@
-package kr.ac.kopo.day08.inter02;
+package kr.ac.kopo.day09.inter02;
 
 // 인터페이스 -> 클래스 상속
 public class SamsungTV implements TV{
