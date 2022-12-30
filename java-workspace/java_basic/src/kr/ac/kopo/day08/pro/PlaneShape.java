@@ -13,7 +13,6 @@ public abstract class PlaneShape extends Shape {
 	public void setHeight(int height) {
 		this.height = height;
 	}
-
 	
 	
 	public int getWidth() {
