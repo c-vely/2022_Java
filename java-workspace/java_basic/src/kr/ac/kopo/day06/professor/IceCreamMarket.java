@@ -1,4 +1,4 @@
-package kr.ac.kopo.day06.exam;
+package kr.ac.kopo.day06.professor;
 
 import java.util.Scanner;
 
